@@ -1,7 +1,7 @@
-- [x] Find a code/tutorial on GitHub, PyPi, or another site for Rock Paper Scissors DONE
+- [x] Find a code/tutorial on GitHub, PyPi, or another site for Rock Paper Scissors 
 - [x]  Attempt to run the code to see if works
-- [x]  Create Read.Me file DONE
- - [x] Cread roadmap.md
- - [x] Open Visual Studio Code and use found code to test if there are any problems
- - [x] Take successful code and add updated features to Rock Paper Scissors
-- [x] Make PowerPoint presentation and share my idea 
+- [x]  Create Read.Me file
+ - [x] Create roadmap.md
+ - [ ] Open Visual Studio Code and use found code to test if there are any problems
+ - [ ] Take successful code and add updated features to Rock Paper Scissors
+- [ ] Make PowerPoint presentation and share my idea 
