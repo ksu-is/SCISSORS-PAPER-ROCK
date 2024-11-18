@@ -23,7 +23,7 @@ def determine_winner(user_choice, computer_choice):
         return "Computer wins!"
 
 def play_game():
-    while True:  -m "Added a 'while' function to keep the game in a loop instead of just stopping"
+    while True:  #commit 1 "Added a 'while' function to keep the game in a loop instead of just stopping"
         user_choice = get_user_choice()
         computer_choice = get_computer_choice()
 
@@ -32,6 +32,8 @@ def play_game():
 
         result = determine_winner(user_choice, computer_choice)
         print(result)
+
+        play_again = input(/n"Do you want to play again? Type Yes or No: " ) #
 
 if __name__ == "__main__":
     play_game()
