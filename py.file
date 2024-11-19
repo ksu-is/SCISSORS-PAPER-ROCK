@@ -10,12 +10,12 @@ while True:
         print(f'Both players selected {user_action}. Tie!')
     elif user_action.lower() == "rock":
         if computer_action.lower() == "scissors":
-            print("Rock smashes scissors! You win!")
+            print("Computer chose scissors\nRock smashes scissors! You win!")
         else:
-            print("Paper covers rock! You lose.")
+            print("Computer chose paper\nPaper covers rock. You lose :(")
     elif user_action.lower() == "paper":
         if computer_action.lower() == "rock":
-            print("Paper covers rock! You win!")
+            print("Computer chose rock\nPaper covers rock! You win!")
         else:
             print("Scissors cuts paper! You lose.")
     elif user_action.lower() == "scissors":
@@ -28,5 +28,5 @@ def play_game:
     user_score = 0
     computer_score = 0
    
-
+if 
 
