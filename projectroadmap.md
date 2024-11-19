@@ -2,6 +2,6 @@
 - [x]  Attempt to run the code to see if works
 - [x]  Create Read.Me file
  - [x] Create roadmap.md
- - [ ] Open Visual Studio Code and use found code to test if there are any problems
- - [ ] Take successful code and add updated features to Rock Paper Scissors
+ - [x] Open Visual Studio Code and use found code to test if there are any problems
+ - [x] Take successful code and add updated features to Rock Paper Scissors
 - [ ] Make PowerPoint presentation and share my idea 
