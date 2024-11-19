@@ -34,8 +34,14 @@ while True:
             print("Computer chose rock\nRock smashes scissors. You lose.   ")
             computer_score += 1
 
+    if user_score > computer_score:
+        print("You win the game!")
+    else:
+        print("You lost the game. ")
+
    print("Your Score: {user_score}, Computer Score: {computer_score}")
-        
+
+    
    
 
 
