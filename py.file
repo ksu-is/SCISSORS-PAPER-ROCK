@@ -33,7 +33,9 @@ while True:
         else:
             print("Computer chose rock\nRock smashes scissors. You lose.   ")
             computer_score += 1
-
+    else:
+        print("Not an option. Choose Rock, Paper, or Scissors.")
+        continue
 
    print("Your Score: {user_score}, Computer Score: {computer_score}")
 
