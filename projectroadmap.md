@@ -3,5 +3,6 @@
 - [x]  Create Read.Me file
  - [x] Create roadmap.md
  - [x] Open Visual Studio Code and use found code to test if there are any problems
+ - [x] Make changes to code to add depth to the game (add score, add conditional statements, etc)
  - [x] Take successful code and add updated features to Rock Paper Scissors
-- [ ] Make PowerPoint presentation and share my idea 
+- [x] Make PowerPoint presentation and share my idea 
