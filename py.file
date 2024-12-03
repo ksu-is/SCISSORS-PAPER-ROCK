@@ -37,7 +37,7 @@ while True:
         print("Not an option. Choose Rock, Paper, or Scissors.")
         continue
 
-   print("Your Score: {user_score}, Computer Score: {computer_score}")
+    print("Your Score: {user_score}, Computer Score: {computer_score}")
 
     play_again = input("Do you want to play again? Yes or No": )
     if play_again = "No":
